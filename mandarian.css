@@ -68,13 +68,13 @@
 
 .first4 {
     display: flex;
-    flex: 1;
+    flex: 2;
     background-color: white;
 }
 
 .first5 {
     display: flex;
-    flex: 1;
+    flex: 6;
     background-color: red;
 }
 
